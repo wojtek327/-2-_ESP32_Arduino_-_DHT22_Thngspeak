@@ -1,4 +1,4 @@
-# -1-_ESP32_Arduino_-_DHT22_Thngspeak
+# -2-_ESP32_Arduino_-_DHT22_Thngspeak
 
 ESP32 Arduino project,
 DHT22 thingspeak
